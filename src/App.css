@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 
 .App-logo {
@@ -23,6 +24,10 @@
   color: #61dafb;
 }
 
+.mainApp {
+  margin: 2%;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -30,4 +35,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.square {
+  width: 100%;
+  min-height: 60px;
+  border: 1px solid black;
+}
+
+.selected {
+  background-color: yellow;
+}
+
+a {
+  text-decoration: none;
 }

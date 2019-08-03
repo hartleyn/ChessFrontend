@@ -1,0 +1,12 @@
+export const FETCH_MATCHES = 'FETCH_MATCHES';
+export const FETCH_PIECES = 'FETCH_PIECES';
+export const LIFT_PIECE = 'LIFT_PIECE';
+export const DROP_PIECE = 'DROP_PIECE';
+export const END_TURN = 'END_TURN';
+export const CONNECT_SOCKET = 'CONNECT_SOCKET';
+export const RECEIVE_SOCKET_MESSAGE = 'RECEIVE_SOCKET_MESSAGE';
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const SIGN_UP = 'SIGN_UP';
+export const JOIN_MATCH = 'JOIN_MATCH';
+export const CREATE_MATCH = 'CREATE_MATCH';
